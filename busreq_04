@@ -1,0 +1,54 @@
+# Business Requirement 04.
+I would like to begin by using a pre-defined list and having the python code determine how many items are within it.
+
+For this next effort, I would like to have a pre-defined list, and pseudo-randomally generate a result from that existing list.
+
+The business goal for this exercise would be simulate a pre-constructed database instance, wherein a number of objects already exist and are intended to remain.  However, as with busreq_02; this file will use paired data.  The code must still see the paired data as a single instance, not as additional possibilities to generate.
+
+With this list, I need to be able to generate a single item (pair) from that list per 'run' of the code, AND print it to the screen.
+
+Expected Outcome:
+
+Each time the code is run, I should see a Name and Description pair, in a mostly human-readable format for a single entry from the list.  Only items in the list should appear.
+
+Name of List: Spring Events.
+Items in List: (Format: 
+Name: 
+- Description:
+)
+
+Morning Dew
+- A bright and beautiful spring is upon shines down upon everyone.  The morning dew fades, a heavy early rainshower pours and gives way to bountiful rainbows.  All across the plains, farmers; serfs and slaves alike begin toiling to plant crops as soon as possible.  Wild berries and shrubs are already blooming with new life.
+
+Spring Levies
+- The various noble powers that be of the land call for War-time levies, and soon troops are appearing and being pulled to fight.  Soon mercenaries are depleted from the cities and standing amidst ever-growing armies.
+
+Plains Ambush
+- The temperatures are beginning to warm across the land again, and trade is in boom once more!  With the improved temperatures, farmers are becoming more and more able to sow and work their lands.  
+
+Nobles' Purge
+- The forces of the various barons and nobles have been moving beyond the plains and fighting in the hills of late; forcing numerous hostile forces out of hiding and into open conflict.
+
+Spring's Respite
+- Spring is here once more!  Although winter was short, it's frigid sting was felt by everyone, even to those in the huddled shelters of the large cities.  Although the frost has begun to give-way to green grass, the nobles of the land have already begun to mount new expeditions, as they attempt to rally supporters to prepare greater defenses against the rampaging hordes of the wandering beasts and foul denizens that stalked and still tarry in the land.
+
+Food Shortages
+- As a result of heavy feasting during the winter, many are working excessively to relocate food and have enough to bring to market for a smooth profit.  This is, however; leading to a beleaguered workforce and leaving many unprotected against banditry.
+
+River Flow
+- As the rivers begin to flow once more, and signs of life return to the land, explorers have taken to the swamps in hopes of making discoveries before some of the more frightening denizens awaken from slumber.
+
+Open Gates
+- Opening gates wide to invite all, the larger city-scapes are seeing an influx of laborers and workers who are once again seeking fame and fortune.
+
+Unemployed Architects
+- With the hardest tasks of construction having already been handled in the autumn season, and the efforts having been seen in the winter; many of the learned in the ways of math are looking for new employers to keep their bellies full until the next time their professional skills are needed.
+
+Journeyman's Plight
+- As newly minted journeymen are set loose upon the world; they seek to ply their trade, exchanging valuable knowledge for the coin necessary to begin their own workshops and join artisans guilds as masters in their own right.
+
+Research Budget
+- Even wizards and magicians must acquire gold, as the small coppers they receive for parlor tricks are useful for little more than keeping the larder stocked with bread, they must manage their funds wisely to continue their research into arcane lore.
+
+Aspirant Knights
+- Due to early conquests by aspirant Knights-Errant, numerous troublesome Trolls and man-eating Ogres have been forced to flee from their oft-guarded Iron and Stone.
