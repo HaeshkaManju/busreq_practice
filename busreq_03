@@ -1,0 +1,15 @@
+# Business Requirement 03.
+For this next effort, I would like to have a pre-defined list, and pseudo-randomally generate a result from that existing list.
+
+The business goal for this exercise would be simulate a pre-constructed database instance, wherein a number of objects already exist and are intended to remain.
+
+With this list, I need to be able to generate a single item from that list per 'run' of the code.
+
+Pre-defined list elements:
+
+Name of List: Spring.
+Items in List: 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13
+
+Outcome: 
+When run, I should see only exact values (as strings) from the items in the list.  The code should not handle these as numbers - as the next steps will involve substituting these numbers with string values - and later - as database queries.
+
