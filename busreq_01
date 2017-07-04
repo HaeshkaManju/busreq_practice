@@ -1,0 +1,10 @@
+# Business Requirement 01.
+I would like to begin by using a pre-defined array and having the python code determine how many items are within it.
+
+The business goal for this exercise would be simulate a pre-constructed database instance, wherein a number of objects already exist and are intended to remain, however; for purposes of generating future randomization of that information, we need code to be able to determine the number of elements in order to sort and print-out an item from that array.
+
+Pre-defined Array elements:
+
+Name of Array: Spring.
+Items in Array: 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13
+
